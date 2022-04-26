@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LilitTakiryan
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Java
+- 🌱 Currently learning Java
 
 
 <!---
