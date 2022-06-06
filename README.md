@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LilitTakiryan
+- 👋 Hi, I’m @Lilit
 - 👀 I’m interested in Mobile Development
 - 🌱 Currently learning Java
 
